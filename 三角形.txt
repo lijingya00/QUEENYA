@@ -1,0 +1,21 @@
+ Triangle t=new Triangle(3,3,3);
+    Triangle t2=new Triangle(3,4,5);
+    Triangle t3=new Triangle(3,6,10);
+    Triangle t4=new Triangle(3,3,4);
+    Triangle t5=new Triangle(-3,-3,-3);
+
+    @Test
+    public void testIsTriangle() throws Exception {
+        Assert.assertEquals(true,t.isTriangle(t), "Regular");
+        Assert.assertEquals(true,t2.isTriangle(t2), "Scalene");
+        Assert.assertEquals(false,t3.isTriangle(t3), "Illegal");
+        Assert.assertEquals(true,t4.isTriangle(t4),"Isosceles");
+        Assert.assertEquals(false,t5.isTriangle(t5),"Illegal");
+    }
+    @Test
+    public void testGetType() throws Exception {
+        Assert.assertEquals("Regular",t.getType(t));
+        Assert.assertEquals("Scalene",t2.getType(t2));
+        Assert.assertEquals("Isosceles",t4.getType(t4));
+
+    }
