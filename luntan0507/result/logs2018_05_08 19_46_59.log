@@ -1,0 +1,9 @@
+[2018-05-08 19:47:03] [INFO] chromedriver
+[2018-05-08 19:47:07] [INFO] 获取到的浏览区网址为：http://127.0.0.1/upload/forum.php
+[2018-05-08 19:47:07] [INFO] 开始查找元素：By.id: ls_username
+[2018-05-08 19:47:07] [INFO] 找到了元素 [By.id: ls_username]
+[2018-05-08 19:47:07] [INFO] 对[[ChromeDriver: chrome on XP (21b705536212665f5fa9f4c5168186d0)] -> id: ls_username]该元素进行了点击操作
+[2018-05-08 19:47:07] [INFO] 以向文本框输入：admin
+[2018-05-08 19:47:07] [INFO] 对[[ChromeDriver: chrome on XP (21b705536212665f5fa9f4c5168186d0)] -> id: ls_password]该元素进行了点击操作
+[2018-05-08 19:47:07] [INFO] 以向文本框输入：123456
+[2018-05-08 19:47:07] [INFO] 对[[ChromeDriver: chrome on XP (21b705536212665f5fa9f4c5168186d0)] -> xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button]该元素进行了点击操作

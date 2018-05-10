@@ -1,0 +1,19 @@
+[2018-05-09 17:31:13] [INFO] chromedriver
+[2018-05-09 17:31:17] [INFO] 获取到的浏览区网址为：http://127.0.0.1/upload/forum.php
+[2018-05-09 17:31:17] [INFO] 开始查找元素：By.id: ls_username
+[2018-05-09 17:31:17] [INFO] 找到了元素 [By.id: ls_username]
+[2018-05-09 17:31:17] [INFO] 对[[ChromeDriver: chrome on XP (c67d968c2016e758c3b20df26c875ed6)] -> id: ls_username]该元素进行了点击操作
+[2018-05-09 17:31:18] [INFO] 以向文本框输入：admin
+[2018-05-09 17:31:18] [INFO] 对[[ChromeDriver: chrome on XP (c67d968c2016e758c3b20df26c875ed6)] -> id: ls_password]该元素进行了点击操作
+[2018-05-09 17:31:18] [INFO] 以向文本框输入：123456
+[2018-05-09 17:31:18] [INFO] 对[[ChromeDriver: chrome on XP (c67d968c2016e758c3b20df26c875ed6)] -> xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button]该元素进行了点击操作
+[2018-05-09 17:31:18] [INFO] 开始查找元素：By.xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 17:31:18] [INFO] 找到了元素 [By.xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-09 17:31:18] [INFO] 开始查找元素：By.xpath: /html/body/div[6]/div/div[1]/div/p[1]/a[6]
+[2018-05-09 17:31:23] [INFO] 找到了元素 [By.xpath: /html/body/div[6]/div/div[1]/div/p[1]/a[6]]
+[2018-05-09 17:31:23] [INFO] 对[[ChromeDriver: chrome on XP (c67d968c2016e758c3b20df26c875ed6)] -> xpath: /html/body/div[6]/div/div[1]/div/p[1]/a[6]]该元素进行了点击操作
+[2018-05-09 17:31:23] [INFO] 找到句柄CDwindow-C0EAE719478762B0C9B16659DEF6E2D7
+[2018-05-09 17:31:23] [INFO] 找到句柄CDwindow-15CB9F6CC4C6A54AC5356673FC49C42B
+[2018-05-09 17:31:23] [INFO] 开始查找元素：By.className: txt
+[2018-05-09 17:31:57] [INFO] 找到了元素 [By.className: txt]
+[2018-05-09 17:31:57] [INFO] 以向文本框输入：123456

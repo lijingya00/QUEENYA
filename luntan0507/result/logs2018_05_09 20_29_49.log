@@ -1,0 +1,32 @@
+[2018-05-09 20:29:53] [INFO] chromedriver
+[2018-05-09 20:29:57] [INFO] 获取到的浏览区网址为：http://127.0.0.1/upload/forum.php
+[2018-05-09 20:29:57] [INFO] 对[[ChromeDriver: chrome on XP (6655f7f3bbd9c750a4f61fa892b8c35e)] -> id: ls_username]该元素进行了点击操作
+[2018-05-09 20:29:57] [INFO] 以向文本框输入：admin
+[2018-05-09 20:29:57] [INFO] 对[[ChromeDriver: chrome on XP (6655f7f3bbd9c750a4f61fa892b8c35e)] -> id: ls_password]该元素进行了点击操作
+[2018-05-09 20:29:57] [INFO] 以向文本框输入：123456
+[2018-05-09 20:29:57] [INFO] 对[[ChromeDriver: chrome on XP (6655f7f3bbd9c750a4f61fa892b8c35e)] -> xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button]该元素进行了点击操作
+[2018-05-09 20:29:57] [INFO] 开始查找元素：By.xpath: /html/body/div[6]/div/div[1]/div/p[1]/a[6]
+[2018-05-09 20:30:03] [INFO] 找到了元素 [By.xpath: /html/body/div[6]/div/div[1]/div/p[1]/a[6]]
+[2018-05-09 20:30:03] [INFO] 对[[ChromeDriver: chrome on XP (6655f7f3bbd9c750a4f61fa892b8c35e)] -> xpath: /html/body/div[6]/div/div[1]/div/p[1]/a[6]]该元素进行了点击操作
+[2018-05-09 20:30:03] [INFO] 找到句柄CDwindow-D4345A667D4CB72C0B724B3140E48B60
+[2018-05-09 20:30:03] [INFO] 找到句柄CDwindow-7B6464A0915069F6460AE52825D9AEFE
+[2018-05-09 20:30:03] [INFO] 开始查找元素：By.className: txt
+[2018-05-09 20:30:04] [INFO] 找到了元素 [By.className: txt]
+[2018-05-09 20:30:04] [INFO] 以向文本框输入：123456
+[2018-05-09 20:30:30] [INFO] 对[[ChromeDriver: chrome on XP (6655f7f3bbd9c750a4f61fa892b8c35e)] -> class name: btn]该元素进行了点击操作
+[2018-05-09 20:30:30] [INFO] 找到句柄CDwindow-D4345A667D4CB72C0B724B3140E48B60
+[2018-05-09 20:30:30] [INFO] 找到句柄CDwindow-7B6464A0915069F6460AE52825D9AEFE
+[2018-05-09 20:30:30] [INFO] 开始查找元素：By.xpath: //*[@id="header_forum"]
+[2018-05-09 20:30:30] [INFO] 找到了元素 [By.xpath: //*[@id="header_forum"]]
+[2018-05-09 20:30:30] [INFO] 对[[ChromeDriver: chrome on XP (6655f7f3bbd9c750a4f61fa892b8c35e)] -> xpath: //*[@id="header_forum"]]该元素进行了点击操作
+[2018-05-09 20:30:30] [INFO] 开始查找元素：By.className: addtr
+[2018-05-09 20:30:33] [INFO] 找到了元素 [By.className: addtr]
+[2018-05-09 20:30:33] [INFO] 对[[ChromeDriver: chrome on XP (6655f7f3bbd9c750a4f61fa892b8c35e)] -> class name: addtr]该元素进行了点击操作
+[2018-05-09 20:30:33] [INFO] 对[[ChromeDriver: chrome on XP (6655f7f3bbd9c750a4f61fa892b8c35e)] -> id: submit_editsubmit]该元素进行了点击操作
+[2018-05-09 20:30:33] [INFO] 找到句柄CDwindow-D4345A667D4CB72C0B724B3140E48B60
+[2018-05-09 20:30:33] [INFO] 找到句柄CDwindow-7B6464A0915069F6460AE52825D9AEFE
+[2018-05-09 20:30:33] [INFO] 开始查找元素：By.xpath: //*[@id="frameuinfo"]/p[1]/a
+[2018-05-09 20:30:33] [INFO] 找到了元素 [By.xpath: //*[@id="frameuinfo"]/p[1]/a]
+[2018-05-09 20:30:38] [INFO] 对[[ChromeDriver: chrome on XP (6655f7f3bbd9c750a4f61fa892b8c35e)] -> xpath: //*[@id="frameuinfo"]/p[1]/a]该元素进行了点击操作
+[2018-05-09 20:30:38] [INFO] 开始查找元素：By.xpath: //*[@id="frameuinfo"]/p[1]/a
+[2018-05-09 20:30:44] [ERROR] 超时!! 5 秒之后还没找到元素 [By.xpath: //*[@id="frameuinfo"]/p[1]/a]

@@ -1,0 +1,15 @@
+[2018-05-08 10:07:12] [INFO] chromedriver
+[2018-05-08 10:07:16] [INFO] 获取到的浏览区网址为：http://127.0.0.1/upload/forum.php
+[2018-05-08 10:07:17] [INFO] 对[[ChromeDriver: chrome on XP (2b0c9fe9096c237f0c8cd34ec5c57b41)] -> id: ls_username]该元素进行了点击操作
+[2018-05-08 10:07:17] [INFO] 以向文本框输入：admin
+[2018-05-08 10:07:17] [INFO] 对[[ChromeDriver: chrome on XP (2b0c9fe9096c237f0c8cd34ec5c57b41)] -> id: ls_password]该元素进行了点击操作
+[2018-05-08 10:07:17] [INFO] 以向文本框输入：123456
+[2018-05-08 10:07:17] [INFO] 对[[ChromeDriver: chrome on XP (2b0c9fe9096c237f0c8cd34ec5c57b41)] -> xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button]该元素进行了点击操作
+[2018-05-08 10:07:24] [INFO] 对[[ChromeDriver: chrome on XP (2b0c9fe9096c237f0c8cd34ec5c57b41)] -> xpath: /html/body/div[7]/div[3]/div[3]/div[1]/div/div[2]/table/tbody/tr[1]/td[2]/h2/a]该元素进行了点击操作
+[2018-05-08 10:07:29] [INFO] 对[[ChromeDriver: chrome on XP (2b0c9fe9096c237f0c8cd34ec5c57b41)] -> id: subject]该元素进行了点击操作
+[2018-05-08 10:07:29] [INFO] 以向文本框输入：LALALAL
+[2018-05-08 10:07:29] [INFO] 对[[ChromeDriver: chrome on XP (2b0c9fe9096c237f0c8cd34ec5c57b41)] -> id: fastpostmessage]该元素进行了点击操作
+[2018-05-08 10:07:29] [INFO] 以向文本框输入：YAYAYAYAY
+[2018-05-08 10:07:30] [INFO] 对[[ChromeDriver: chrome on XP (2b0c9fe9096c237f0c8cd34ec5c57b41)] -> id: fastpostsubmit]该元素进行了点击操作
+[2018-05-08 10:07:35] [INFO] 对[[ChromeDriver: chrome on XP (2b0c9fe9096c237f0c8cd34ec5c57b41)] -> xpath: /html/body/div[7]/div[4]/div[1]/a[2]/img]该元素进行了点击操作
+[2018-05-08 10:07:38] [INFO] 以向文本框输入：good

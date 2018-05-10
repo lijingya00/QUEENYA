@@ -1,0 +1,13 @@
+[2018-05-09 22:48:25] [INFO] chromedriver
+[2018-05-09 22:48:28] [INFO] 获取到的浏览区网址为：http://127.0.0.1/upload/forum.php
+[2018-05-09 22:48:28] [INFO] 开始查找元素：By.id: ls_username
+[2018-05-09 22:48:28] [INFO] 找到了元素 [By.id: ls_username]
+[2018-05-09 22:48:28] [INFO] 对[[ChromeDriver: chrome on XP (159dc99cf7909c5b509ba3a4874b6dee)] -> id: ls_username]该元素进行了点击操作
+[2018-05-09 22:48:28] [INFO] 以向文本框输入：admin
+[2018-05-09 22:48:28] [INFO] 对[[ChromeDriver: chrome on XP (159dc99cf7909c5b509ba3a4874b6dee)] -> id: ls_password]该元素进行了点击操作
+[2018-05-09 22:48:28] [INFO] 以向文本框输入：123456
+[2018-05-09 22:48:29] [INFO] 对[[ChromeDriver: chrome on XP (159dc99cf7909c5b509ba3a4874b6dee)] -> xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button]该元素进行了点击操作
+[2018-05-09 22:48:29] [INFO] 对[[ChromeDriver: chrome on XP (159dc99cf7909c5b509ba3a4874b6dee)] -> name: srchtxt]该元素进行了点击操作
+[2018-05-09 22:48:29] [INFO] 以向文本框输入：haotest
+[2018-05-09 22:48:29] [INFO] 对[[ChromeDriver: chrome on XP (159dc99cf7909c5b509ba3a4874b6dee)] -> name: searchsubmit]该元素进行了点击操作
+[2018-05-09 22:48:29] [ERROR] 期望的文字是 [haotest] 但是找到了 [By.xpath: //*[@id="32"]/h3/a/strong/font]

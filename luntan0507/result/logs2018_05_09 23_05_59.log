@@ -1,0 +1,17 @@
+[2018-05-09 23:06:03] [INFO] chromedriver
+[2018-05-09 23:06:07] [INFO] 获取到的浏览区网址为：http://127.0.0.1/upload/forum.php
+[2018-05-09 23:06:07] [INFO] 开始查找元素：By.id: ls_username
+[2018-05-09 23:06:07] [INFO] 找到了元素 [By.id: ls_username]
+[2018-05-09 23:06:07] [INFO] 对[[ChromeDriver: chrome on XP (d45e0dfbf0a6d9726a4067a611f710f6)] -> id: ls_username]该元素进行了点击操作
+[2018-05-09 23:06:07] [INFO] 以向文本框输入：admin
+[2018-05-09 23:06:07] [INFO] 对[[ChromeDriver: chrome on XP (d45e0dfbf0a6d9726a4067a611f710f6)] -> id: ls_password]该元素进行了点击操作
+[2018-05-09 23:06:07] [INFO] 以向文本框输入：123456
+[2018-05-09 23:06:07] [INFO] 对[[ChromeDriver: chrome on XP (d45e0dfbf0a6d9726a4067a611f710f6)] -> xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button]该元素进行了点击操作
+[2018-05-09 23:06:07] [INFO] 对[[ChromeDriver: chrome on XP (d45e0dfbf0a6d9726a4067a611f710f6)] -> name: srchtxt]该元素进行了点击操作
+[2018-05-09 23:06:07] [INFO] 以向文本框输入：haotest
+[2018-05-09 23:06:07] [INFO] 对[[ChromeDriver: chrome on XP (d45e0dfbf0a6d9726a4067a611f710f6)] -> name: searchsubmit]该元素进行了点击操作
+[2018-05-09 23:06:07] [INFO] 找到句柄CDwindow-14FFF3F81ABB71536ADECB2393F71A5F
+[2018-05-09 23:06:07] [INFO] 找到句柄CDwindow-BB77D08CC3885EF51D25258AB8FAF1AE
+[2018-05-09 23:06:08] [INFO] 开始查找元素：By.xpath: //*[@id="32"]/h3/a/strong/font
+[2018-05-09 23:06:10] [INFO] 找到了元素 [By.xpath: //*[@id="32"]/h3/a/strong/font]
+[2018-05-09 23:06:10] [INFO] 找到了期望的文字: [haotest]

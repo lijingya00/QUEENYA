@@ -1,0 +1,27 @@
+[2018-05-09 18:55:55] [INFO] chromedriver
+[2018-05-09 18:55:59] [INFO] 获取到的浏览区网址为：http://127.0.0.1/upload/forum.php
+[2018-05-09 18:55:59] [INFO] 开始查找元素：By.id: ls_username
+[2018-05-09 18:55:59] [INFO] 找到了元素 [By.id: ls_username]
+[2018-05-09 18:55:59] [INFO] 对[[ChromeDriver: chrome on XP (2adedcff28aa850d4dc1c4ba1f9b6103)] -> id: ls_username]该元素进行了点击操作
+[2018-05-09 18:55:59] [INFO] 以向文本框输入：admin
+[2018-05-09 18:55:59] [INFO] 对[[ChromeDriver: chrome on XP (2adedcff28aa850d4dc1c4ba1f9b6103)] -> id: ls_password]该元素进行了点击操作
+[2018-05-09 18:55:59] [INFO] 以向文本框输入：123456
+[2018-05-09 18:55:59] [INFO] 对[[ChromeDriver: chrome on XP (2adedcff28aa850d4dc1c4ba1f9b6103)] -> xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button]该元素进行了点击操作
+[2018-05-09 18:55:59] [INFO] 开始查找元素：By.xpath: /html/body/div[6]/div/div[1]/div/p[1]/a[6]
+[2018-05-09 18:56:05] [INFO] 找到了元素 [By.xpath: /html/body/div[6]/div/div[1]/div/p[1]/a[6]]
+[2018-05-09 18:56:05] [INFO] 对[[ChromeDriver: chrome on XP (2adedcff28aa850d4dc1c4ba1f9b6103)] -> xpath: /html/body/div[6]/div/div[1]/div/p[1]/a[6]]该元素进行了点击操作
+[2018-05-09 18:56:05] [INFO] 找到句柄CDwindow-EBCB91079EC49E4341E10915A131DFD8
+[2018-05-09 18:56:05] [INFO] 找到句柄CDwindow-5CA8E618E3E94F1554D8F212F5BB2630
+[2018-05-09 18:56:05] [INFO] 开始查找元素：By.className: txt
+[2018-05-09 18:56:06] [INFO] 找到了元素 [By.className: txt]
+[2018-05-09 18:56:06] [INFO] 以向文本框输入：123456
+[2018-05-09 18:56:32] [INFO] 对[[ChromeDriver: chrome on XP (2adedcff28aa850d4dc1c4ba1f9b6103)] -> class name: btn]该元素进行了点击操作
+[2018-05-09 18:56:32] [INFO] 找到句柄CDwindow-EBCB91079EC49E4341E10915A131DFD8
+[2018-05-09 18:56:32] [INFO] 找到句柄CDwindow-5CA8E618E3E94F1554D8F212F5BB2630
+[2018-05-09 18:56:32] [INFO] 开始查找元素：By.xpath: //*[@id="header_forum"]
+[2018-05-09 18:56:32] [INFO] 找到了元素 [By.xpath: //*[@id="header_forum"]]
+[2018-05-09 18:56:32] [INFO] 对[[ChromeDriver: chrome on XP (2adedcff28aa850d4dc1c4ba1f9b6103)] -> xpath: //*[@id="header_forum"]]该元素进行了点击操作
+[2018-05-09 18:56:32] [INFO] 开始查找元素：By.className: addtr
+[2018-05-09 18:56:35] [INFO] 找到了元素 [By.className: addtr]
+[2018-05-09 18:56:35] [INFO] 对[[ChromeDriver: chrome on XP (2adedcff28aa850d4dc1c4ba1f9b6103)] -> class name: addtr]该元素进行了点击操作
+[2018-05-09 18:56:35] [INFO] 对[[ChromeDriver: chrome on XP (2adedcff28aa850d4dc1c4ba1f9b6103)] -> id: submit_editsubmit]该元素进行了点击操作

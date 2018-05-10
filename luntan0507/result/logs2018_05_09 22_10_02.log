@@ -1,0 +1,48 @@
+[2018-05-09 22:10:07] [INFO] chromedriver
+[2018-05-09 22:10:12] [INFO] 获取到的浏览区网址为：http://127.0.0.1/upload/forum.php
+[2018-05-09 22:10:13] [INFO] 开始查找元素：By.id: ls_username
+[2018-05-09 22:10:13] [INFO] 找到了元素 [By.id: ls_username]
+[2018-05-09 22:10:13] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> id: ls_username]该元素进行了点击操作
+[2018-05-09 22:10:13] [INFO] 以向文本框输入：admin
+[2018-05-09 22:10:13] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> id: ls_password]该元素进行了点击操作
+[2018-05-09 22:10:13] [INFO] 以向文本框输入：123456
+[2018-05-09 22:10:13] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button]该元素进行了点击操作
+[2018-05-09 22:10:13] [INFO] 开始查找元素：By.xpath: /html/body/div[6]/div/div[1]/div/p[1]/a[6]
+[2018-05-09 22:10:19] [INFO] 找到了元素 [By.xpath: /html/body/div[6]/div/div[1]/div/p[1]/a[6]]
+[2018-05-09 22:10:19] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> xpath: /html/body/div[6]/div/div[1]/div/p[1]/a[6]]该元素进行了点击操作
+[2018-05-09 22:10:19] [INFO] 找到句柄CDwindow-8FFF1D2D2F1519F321A7B080CEEC22EB
+[2018-05-09 22:10:19] [INFO] 找到句柄CDwindow-6E03D6827DE2062F20631CD7479052E1
+[2018-05-09 22:10:19] [INFO] 开始查找元素：By.className: txt
+[2018-05-09 22:10:20] [INFO] 找到了元素 [By.className: txt]
+[2018-05-09 22:10:20] [INFO] 以向文本框输入：123456
+[2018-05-09 22:10:26] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> class name: btn]该元素进行了点击操作
+[2018-05-09 22:10:26] [INFO] 找到句柄CDwindow-8FFF1D2D2F1519F321A7B080CEEC22EB
+[2018-05-09 22:10:26] [INFO] 找到句柄CDwindow-6E03D6827DE2062F20631CD7479052E1
+[2018-05-09 22:10:26] [INFO] 开始查找元素：By.xpath: //*[@id="header_forum"]
+[2018-05-09 22:10:27] [INFO] 找到了元素 [By.xpath: //*[@id="header_forum"]]
+[2018-05-09 22:10:27] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> xpath: //*[@id="header_forum"]]该元素进行了点击操作
+[2018-05-09 22:10:27] [INFO] 开始查找元素：By.className: addtr
+[2018-05-09 22:10:30] [INFO] 找到了元素 [By.className: addtr]
+[2018-05-09 22:10:30] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> class name: addtr]该元素进行了点击操作
+[2018-05-09 22:10:30] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> id: submit_editsubmit]该元素进行了点击操作
+[2018-05-09 22:10:30] [INFO] 找到句柄CDwindow-8FFF1D2D2F1519F321A7B080CEEC22EB
+[2018-05-09 22:10:30] [INFO] 找到句柄CDwindow-6E03D6827DE2062F20631CD7479052E1
+[2018-05-09 22:10:30] [INFO] 开始查找元素：By.xpath: //*[@id="frameuinfo"]/p[1]/a
+[2018-05-09 22:10:30] [INFO] 找到了元素 [By.xpath: //*[@id="frameuinfo"]/p[1]/a]
+[2018-05-09 22:10:33] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> xpath: //*[@id="frameuinfo"]/p[1]/a]该元素进行了点击操作
+[2018-05-09 22:10:34] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> xpath: /html/body/div[6]/div/div[1]/div/p[1]/a[7]]该元素进行了点击操作
+[2018-05-09 22:10:34] [INFO] 开始查找元素：By.id: ls_username
+[2018-05-09 22:10:39] [INFO] 找到了元素 [By.id: ls_username]
+[2018-05-09 22:10:39] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> id: ls_username]该元素进行了点击操作
+[2018-05-09 22:10:39] [INFO] 以向文本框输入：jingjingya
+[2018-05-09 22:10:39] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> id: ls_password]该元素进行了点击操作
+[2018-05-09 22:10:40] [INFO] 以向文本框输入：jingya00
+[2018-05-09 22:10:40] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button]该元素进行了点击操作
+[2018-05-09 22:10:40] [INFO] 开始查找元素：By.xpath: /html/body/div[7]/div[3]/div[3]/div[1]/div/div[2]/table/tbody/tr[2]/td[2]/h2/a
+[2018-05-09 22:10:45] [INFO] 找到了元素 [By.xpath: /html/body/div[7]/div[3]/div[3]/div[1]/div/div[2]/table/tbody/tr[2]/td[2]/h2/a]
+[2018-05-09 22:10:47] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> xpath: /html/body/div[7]/div[3]/div[3]/div[1]/div/div[2]/table/tbody/tr[2]/td[2]/h2/a]该元素进行了点击操作
+[2018-05-09 22:10:47] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> id: subject]该元素进行了点击操作
+[2018-05-09 22:10:47] [INFO] 以向文本框输入：lalalalal
+[2018-05-09 22:10:47] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> id: fastpostmessage]该元素进行了点击操作
+[2018-05-09 22:10:47] [INFO] 以向文本框输入：yayayaya
+[2018-05-09 22:10:48] [INFO] 对[[ChromeDriver: chrome on XP (68cce9472d395070f19eb9494e0497b9)] -> id: fastpostsubmit]该元素进行了点击操作
